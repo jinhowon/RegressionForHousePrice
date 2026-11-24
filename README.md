@@ -9,3 +9,4 @@ I used a ridge regression model on the log of the housing price and trained it. 
 
  Ridge on log prices cut the error by about 75% compared with the baseline and about 30% compared with plain linear regression. It also overfit less: train RMSE was $16,843 vs. test RMSE of $19,978
 
+Refer to the last Small Reggresion Group File for the codes.
